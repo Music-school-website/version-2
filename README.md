@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Music School Homepage Demo
 
 ## Other Useful Links
 
