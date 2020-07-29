@@ -333,10 +333,33 @@ a:hover, a:active {
 # Hero Section
 --------------------------------------------------------------*/
 .hero-content {
-    background: url("images/background.jpg") no-repeat center;
-    background-size: cover;
+    /*background: url("images/background.jpg") no-repeat center;*/
+    height:820px;
+    width:100%;
 }
 
+.hero-content-bgimg {
+    width: 100%;
+    height: 820px;
+    background-color: #383749;
+    background-image: url("images/background.jpg");
+    background-position: center;
+    background-size: cover;
+    transition: all .5s;
+    position: absolute;
+    z-index: -1;
+}
+
+/* add zoom effect on title img */
+/* unsolved problem: the page width is zoomed as well; cannot isolate the sub div from parent div*/
+.hero-content:hover .hero-content-bgimg,
+.hero-content:focus .hero-content-bgimg {
+    transform: scale(1.2);
+}
+.hero-content:hover .hero-content-wrap,
+.hero-content:focus .hero-content-wrap {
+    transform: scale(0.83333);
+}
 .hero-content-overlay {
     background: rgba(21,20,33,.5);
 }
@@ -344,6 +367,7 @@ a:hover, a:active {
 .hero-content-wrap {
     height: 820px;
     padding-top: 130px;
+    transition: all .5s;
 }
 
 .hero-content-wrap h4 {
@@ -401,6 +425,7 @@ a:hover, a:active {
 --------------------------------*/
 .icon-boxes {
     border-bottom: 1px solid #ebebeb;
+    background-color: #ebebeb;
 }
 
 .icon-box {
@@ -475,7 +500,7 @@ a:hover, a:active {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #fff;
+    background: #ebebeb;
     transition: all .35s;
 }
 
