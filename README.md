@@ -1,5 +1,7 @@
 Music School Homepage Demo
 
+**Live Demo link: https://music-school-website.github.io/ezuca/**
+
 ## Other Useful Links
 
 **ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
