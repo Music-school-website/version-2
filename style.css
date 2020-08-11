@@ -175,7 +175,7 @@ a:hover, a:active {
 # Nav Bar
 --------------------------------*/
 .nav-bar {
-    padding: 20px 0;
+    padding: 10px 0;
     background: rgba(255,255,255,.1);
 }
 
@@ -185,7 +185,7 @@ a:hover, a:active {
 .site-title {
     padding: 6px 0;
     margin: 0;
-    font-size: 36px;
+    font-size: 40px;
     font-weight: 500;
     line-height: 1;
     text-align: left !important;
@@ -334,19 +334,32 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .hero-content {
     /*background: url("images/background.jpg") no-repeat center;*/
-    height:820px;
+    height:450px;
     width:100%;
 }
 
 .hero-content-bgimg {
     width: 100%;
-    height: 820px;
+    height: 450px;
     background-color: #383749;
     background-image: url("images/background.jpg");
     background-position: center;
     background-size: cover;
     transition: all .5s;
     position: absolute;
+    z-index: -2;
+}
+.hero-content-bgimg:after {
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    transition: all .5s;
+    position: absolute;
+    content: "";
+    left:0;
+    top:0;
+    background: inherit;
+    filter: blur(4px);
     z-index: -1;
 }
 
@@ -365,8 +378,8 @@ a:hover, a:active {
 }
 
 .hero-content-wrap {
-    height: 820px;
-    padding-top: 130px;
+    height: 450px;
+    padding-top: 150px;
     transition: all .5s;
 }
 
@@ -398,7 +411,7 @@ a:hover, a:active {
 }
 
 .hero-content-wrap .read-more {
-    margin-top: 40px;
+    margin-top: 10px;
 }
 
 .hero-content-wrap .read-more a {
@@ -556,7 +569,7 @@ a:hover, a:active {
 }
 
 .course-content {
-    margin-top: 50px;
+    margin-top: 20px;
     transition: all .35s
 }
 
@@ -624,7 +637,7 @@ a:hover, a:active {
 }
 
 .course-content .entry-footer {
-    margin-top: 14px;
+    margin-top: 10px;
 }
 
 .course-cost {
@@ -929,7 +942,7 @@ a.btn:hover {
 # Latest News & Events
 --------------------------------*/
 .latest-news-events {
-    padding: 100px 0;
+    padding: 40px 0;
 }
 
 .latest-news-events .heading .entry-title {
@@ -1184,12 +1197,14 @@ a.btn:hover {
 
 .courses-page .page-header {
     background: url("images/courses-header.jpg") no-repeat center;
+    width: 100%;
+    height: 120px;
 }
 
 .page-header-overlay {
     background: rgba(21,20,33,.5);
-    height: 390px;
-    padding-top: 236px;
+    height: 100px;
+    padding-top: 120px;
 }
 
 .page-header h1 {
@@ -1203,7 +1218,7 @@ a.btn:hover {
 # Breadcrumb
 --------------------------------------------------------------*/
 .breadcrumbs {
-    margin: 30px 0;
+    margin: 15px 0;
 }
 
 .breadcrumbs ul {
@@ -1293,7 +1308,7 @@ a.btn:hover {
 --------------------------------------------------------------*/
 .sidebar {
     padding: 25px;
-    margin-top: 50px;
+    margin-top: 21px;
     margin-left: 25px;
     border: 1px solid #ebebeb;
 }
@@ -1917,7 +1932,7 @@ ul.black-doted {
 
 .about-heading,
 .team-heading {
-    margin-top: 80px;
+    margin-top: 40px;
     text-align: center;
 }
 
@@ -2542,7 +2557,7 @@ ul.author-social-profile li:hover .fa {
 
 .contact-form,
 .contact-info {
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 .contact-form h3,
