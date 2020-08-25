@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d34ff72-d30d-4df0-98c6-c765f86fd41e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/event.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="9d34ff72-d30d-4df0-98c6-c765f86fd41e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,67 +14,71 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/../MusicSchool/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="664" column="36" lean-forward="true" selection-start-line="664" selection-start-column="20" selection-end-line="664" selection-end-column="38" />
+            <state relative-caret-position="447">
+              <caret line="746" column="35" lean-forward="true" selection-start-line="694" selection-start-column="16" selection-end-line="746" selection-end-column="35" />
               <folding>
-                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/courses.html">
+        <entry file="file://$PROJECT_DIR$/../MusicSchool/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="81" column="70" lean-forward="true" selection-start-line="81" selection-start-column="70" selection-end-line="81" selection-end-column="70" />
+            <state relative-caret-position="490">
+              <caret line="1100" column="25" selection-start-line="1100" selection-start-column="23" selection-end-line="1100" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MusicSchool/event.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-152">
+              <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about.html">
+        <entry file="file://$PROJECT_DIR$/../MusicSchool/explore.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1851">
-              <caret line="173" column="64" selection-start-line="173" selection-start-column="64" selection-end-line="173" selection-end-column="64" />
+            <state relative-caret-position="929">
+              <caret line="146" column="63" lean-forward="true" selection-start-line="146" selection-start-column="63" selection-end-line="146" selection-end-column="63" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="945" column="1" lean-forward="true" selection-start-line="945" selection-start-column="1" selection-end-line="945" selection-end-column="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/../MusicSchool/images/news7.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="67" column="120" selection-start-line="67" selection-start-column="120" selection-end-line="67" selection-end-column="120" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/event.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-996">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/../MusicSchool/images/news6.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>entry-fo</find>
       <find>read-more</find>
       <find>current-menu-item</find>
       <find>page-header-overlay</find>
@@ -104,6 +100,15 @@
       <find>Ezu</find>
       <find>music</find>
       <find>courses p</find>
+      <find>best</find>
+      <find>feature</find>
+      <find>events</find>
+      <find>Latest News &amp; Events</find>
+      <find>explre</find>
+      <find>hero-content-bgimg</find>
+      <find>blog-post-thumbnail</find>
+      <find>event-content-wrap</find>
+      <find>event-content</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -119,6 +124,13 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/../MusicSchool/index.html" />
+        <option value="$PROJECT_DIR$/../MusicSchool/courses.html" />
+        <option value="$PROJECT_DIR$/../MusicSchool/about.html" />
+        <option value="$PROJECT_DIR$/../MusicSchool/contact.html" />
+        <option value="$PROJECT_DIR$/../MusicSchool/event.html" />
+        <option value="$PROJECT_DIR$/../MusicSchool/style.css" />
+        <option value="$PROJECT_DIR$/../MusicSchool/explore.html" />
       </list>
     </option>
   </component>
@@ -127,34 +139,35 @@
     <option name="width" value="1440" />
     <option name="height" value="809" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="ezuca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ezuca" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezuca" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ezuca" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="MusicSchool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../MusicSchool" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,12 +192,13 @@
       <option name="presentableId" value="Default" />
       <updated>1596391144941</updated>
       <workItem from="1596391146175" duration="2311000" />
-      <workItem from="1597000163896" duration="5407000" />
+      <workItem from="1597000163896" duration="5958000" />
+      <workItem from="1598287644892" duration="9076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7718000" />
+    <option name="totallyTimeSpent" value="17345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="39" width="1440" height="809" extended-state="0" />
@@ -212,7 +226,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
           <caret line="5" column="7472" selection-start-line="5" selection-start-column="7472" selection-end-line="5" selection-end-column="7472" />
@@ -229,48 +243,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event.html">
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/courses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-996">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="199">
+          <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courses.html">
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="81" column="70" lean-forward="true" selection-start-line="81" selection-start-column="70" selection-end-line="81" selection-end-column="70" />
+        <state relative-caret-position="288">
+          <caret line="80" column="51" selection-start-line="80" selection-start-column="51" selection-end-line="80" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="664" column="36" lean-forward="true" selection-start-line="664" selection-start-column="20" selection-end-line="664" selection-end-column="38" />
+        <state relative-caret-position="398">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/images/news8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/images/news7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/images/news6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="746" column="35" lean-forward="true" selection-start-line="694" selection-start-column="16" selection-end-line="746" selection-end-column="35" />
           <folding>
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="945" column="1" lean-forward="true" selection-start-line="945" selection-start-column="1" selection-end-line="945" selection-end-column="1" />
+        <state relative-caret-position="490">
+          <caret line="1100" column="25" selection-start-line="1100" selection-start-column="23" selection-end-line="1100" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/event.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="67" column="120" selection-start-line="67" selection-start-column="120" selection-end-line="67" selection-end-column="120" />
+        <state relative-caret-position="-152">
+          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/../MusicSchool/explore.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1851">
-          <caret line="173" column="64" selection-start-line="173" selection-start-column="64" selection-end-line="173" selection-end-column="64" />
+        <state relative-caret-position="929">
+          <caret line="146" column="63" lean-forward="true" selection-start-line="146" selection-start-column="63" selection-end-line="146" selection-end-column="63" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
